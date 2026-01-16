@@ -56,10 +56,6 @@ A modular organization of 100+ specialized AI personas acting as a **Synthetic B
 
 ---
 
-## 📊 Performance & Transparency
-![Marie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marielandryceo&show_icons=true&theme=dracula)
-
-
 > "Facts are constants to be cited verbatim. The truth is the ultimate strategic advantage."
 
 ---
